@@ -13,4 +13,4 @@ We are a Half-Life community creating fun Garry's Mod servers over the time, we 
 * [RVVZ](https://github.com/revvze)
 * [willmaster](https://github.com/willmasterLUA)
 * [falco](https://github.com/falcodxb)
-* Scotnay
+* [Scotnay](https://github.com/Scotnay)
