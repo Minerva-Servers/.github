@@ -8,7 +8,7 @@ We are a Half-Life community creating fun Garry's Mod servers over the time, we 
 
 ### Contributors
 * [Riggs](https://minerva-servers.vyhub.app/home)
-* [Eon](https://github.com/bloodycop7)
+* [eon](https://github.com/bloodycop7)
 * [Preach](https://github.com/Quantor97/)
 * [RVVZ](https://github.com/revvze)
 * [willmaster](https://github.com/willmasterLUA)
