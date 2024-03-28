@@ -1,4 +1,5 @@
-# Minerva Servers
+<img width="40%" height="40%" src="https://i.imgur.com/HkcPZzT.png">
+
 > [!IMPORTANT]
 > We are a Half-Life community creating fun Garry's Mod servers over the time, we currently are running a Half-Life 2 Roleplay Server on gmod using the Helix Framework. Utilising the Helix Framework allows us to have a Serious Environment while keeping some of the Semi Serious elements and the playstyle.
 
