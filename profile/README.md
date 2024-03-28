@@ -6,7 +6,9 @@
 > [!NOTE]
 > ### Information
 > * [Discord server](https://discord.gg/minerva-servers)
-> * [Donations](https://www.paypal.me/minervaservers) (NOTE: If you want a rank and other rewards, please donate to our [VyHub page](https://minerva-servers.vyhub.app/shop/72253ef4-af7d-4fde-9b37-a4724b8ed3b9) rather than straight to our PayPal!)
+> * [Donations](https://www.paypal.me/minervaservers)
+    > [!IMPORTANT]
+    > If you want a rank and other rewards, please donate to our [VyHub page](https://minerva-servers.vyhub.app/shop/72253ef4-af7d-4fde-9b37-a4724b8ed3b9) rather than straight to our PayPal!
 > * [Homepage](https://minerva-servers.vyhub.app/home)
 
 > [!NOTE]
