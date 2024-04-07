@@ -11,7 +11,7 @@
 
 > [!NOTE]
 > ### Contributors
-> * [Riggs](https://minerva-servers.vyhub.app/home)
+> * [Riggs](https://github.com/riggs9162)
 > * [eon (bloodycop)](https://github.com/bloodycop7)
 > * [Preach](https://github.com/Quantor97/)
 > * [RVVZ](https://github.com/revvze)
