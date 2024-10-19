@@ -1,7 +1,7 @@
 <img width="40%" height="40%" src="https://i.imgur.com/HkcPZzT.png">
 
 > [!IMPORTANT]
-> We are a Half-Life community creating fun Garry's Mod servers over the time, we currently are running a Half-Life 2 Roleplay Server on gmod using the Helix Framework. Utilising the Helix Framework allows us to have a Serious Environment while keeping some of the Semi Serious elements and the playstyle.
+> Minerva Servers is an online Garry's Mod community that hosts a wide range of servers for its dedicated player base. The community's main attraction is its Half-Life 2 Roleplay scene, which draws players interested in immersive roleplaying experiences. Founded on October 12, 2022, by Riggs and some of his friends, Minerva Servers originally started as a server focusing on SCP Roleplay. It later branched out to include the Half-Life 2 Roleplay scene, which has since become its core feature. Over time, it has expanded significantly and become a prominent and well-respected name in the Garry's Mod community. The community continues to grow, offering various servers and activities to engage and entertain its members.
 
 > [!NOTE]
 > ### Information
