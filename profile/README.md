@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="50%" height="50%" src="https://minerva-servers.com/resources/minerva/logo_transparent.png">
+    <img width="50%" height="50%" src="https://minerva-servers.com/assets/img/logo.png">
 </div>
 
 > [!IMPORTANT]
@@ -7,16 +7,14 @@
 
 > [!NOTE]
 > ### Information
-> * [Discord server](https://discord.gg/minerva-servers)
-> * [Donations](https://www.paypal.me/minervaservers) (NOTE: If you want a rank and other rewards, please donate to our [VyHub page](https://minerva-servers.vyhub.app/shop/72253ef4-af7d-4fde-9b37-a4724b8ed3b9) rather than straight to our PayPal!)
-> * [Homepage](https://minerva-servers.vyhub.app/home)
+> * [Discord server](https://discord.minerva-servers.com)
+> * [Donations](https://www.paypal.me/minervaservers)
 
 > [!NOTE]
 > ### Contributors
 > * [Riggs](https://github.com/riggs9162)
-> * [eon (bloodycop)](https://github.com/bloodycop7)
+> * [eon (bloodycop)](https://github.com/bloodycop6385)
 > * [Preach](https://github.com/Quantor97/)
-> * [RVVZ](https://github.com/revvze)
 > * [willmaster](https://github.com/willmasterLUA)
 > * [falco](https://github.com/falcodxb)
 > * [Scotnay](https://github.com/Scotnay)
