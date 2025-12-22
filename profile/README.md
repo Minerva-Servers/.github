@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="50%" height="50%" src="https://minerva-servers.com/assets/img/logo.png">
+    <img width="50%" height="50%" src="https://minerva-servers.com/assets/logo.png">
 </div>
 
 > [!IMPORTANT]
